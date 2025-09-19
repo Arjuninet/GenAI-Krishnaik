@@ -14,3 +14,6 @@ chromadb
 langchain-groq
 sentence-transformers
 torch
+arxiv
+wikipedia
+lanchain_community
