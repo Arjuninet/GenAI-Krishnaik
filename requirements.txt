@@ -3,3 +3,14 @@ numpy
 nltk
 scikit-learn
 gensim
+transformers
+langchain
+langchain-community
+langchain_core
+openai==0.28
+pypdf
+tiktoken
+chromadb
+langchain-groq
+sentence-transformers
+torch
