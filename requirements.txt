@@ -16,4 +16,6 @@ sentence-transformers
 torch
 arxiv
 wikipedia
-lanchain_community
+langchain_community
+streamlit
+ddgs
